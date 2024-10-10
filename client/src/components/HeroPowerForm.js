@@ -80,7 +80,7 @@ function HeroPowerForm() {
         id="strength"
         name="strength"
         value={strength}
-        onChange={(e) => setStrength(e.target.value)}
+        onChange={(e) => setStrength(e.target.value)} 
       />
       {formErrors.length > 0
         ? formErrors.map((err) => (
