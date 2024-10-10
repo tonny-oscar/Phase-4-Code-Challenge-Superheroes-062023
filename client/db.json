@@ -1,0 +1,54 @@
+{
+    "heroes": [
+  {
+    "id": 1,
+    "name": "Kamala Khan",
+    "super_name": "Ms. Marvel"
+  },
+  {
+    "id": 2,
+    "name": "Doreen Green",
+    "super_name": "Squirrel Girl"
+  },
+  {
+    "id": 3,
+    "name": "Gwen Stacy",
+    "super_name": "Spider-Gwen"
+  },
+  {
+    "id": 4,
+    "name": "Janet Van Dyne",
+    "super_name": "The Wasp"
+  },
+  {
+    "id": 5,
+    "name": "Wanda Maximoff",
+    "super_name": "Scarlet Witch"
+  },
+  {
+    "id": 6,
+    "name": "Carol Danvers",
+    "super_name": "Captain Marvel"
+  },
+  {
+    "id": 7,
+    "name": "Jean Grey",
+    "super_name": "Dark Phoenix"
+  },
+  {
+    "id": 8,
+    "name": "Ororo Munroe",
+    "super_name": "Storm"
+  },
+  {
+    "id": 9,
+    "name": "Kitty Pryde",
+    "super_name": "Shadowcat"
+  },
+  {
+    "id": 10,
+    "name": "Elektra Natchios",
+    "super_name": "Elektra"
+  }
+ ]
+}
